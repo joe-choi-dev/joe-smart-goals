@@ -27,7 +27,7 @@ export default function MaterialAppBar() {
       <AppBar className={classes.appBar} position="static">
         <Toolbar variant="regular">
           <Typography className={classes.typography} variant="h5">
-            Duolingo Wordsearch
+            Habit Tracker
           </Typography>
         </Toolbar>
       </AppBar>
